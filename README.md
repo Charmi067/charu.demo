@@ -11,3 +11,4 @@ there is a 4 types of status :untracked=jab hum nayi file banate hain jiski khab
 add & commit command
 
 =>add = git add <--file name>   or to add All the file : git add .
+=>commit = git commit -m "message"\\ -m means commit ka message
