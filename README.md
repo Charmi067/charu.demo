@@ -12,3 +12,5 @@ add & commit command
 
 =>add = git add <--file name>   or to add All the file : git add .
 =>commit = git commit -m "message" \\ -m means commit ka message
+
+to display the changes to the GITHUB : PUSH Command =to upload local repo content to remote repo 
